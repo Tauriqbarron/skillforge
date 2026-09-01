@@ -34,6 +34,10 @@ skills/<skill-name>/
 docs/                  # the research the skills are built on
 ```
 
+## Contributing
+
+New skills and improvements are welcome via PR. The collection is curated, so a PR is a proposal reviewed against a bar: harness-agnostic, no internal/private leakage, research-grounded, and it front-loads the hard thinking. See [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md). Open an issue first for anything non-trivial.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
